@@ -1,7 +1,4 @@
 # My-Restaurant
-My Restaurant is a fully responsive restaurant website, responsive for all devices, and builds with HTML, CSS, Javascript, and JSON
-- 
-# My-Restaurant
 My restaurant page is for a fast food restaurant that serves meals, pizza, sandwiches and drinks. It consists of 4 home pages, new offers, a menu, and contact us.
 # Pages scathing:
 - The Home page consists of header, footer, 4 sections, the first is the image of the most popular new offers, a button to go to the new offers page, the second section, the most food sales, the third section, working hours every day, and the fourth section, the branches. It is divided into two parts. The first is the address of each branch in the provinces, and the second is a map. Branches.
