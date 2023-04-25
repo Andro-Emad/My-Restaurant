@@ -4,7 +4,7 @@ My restaurant page is for a fast food restaurant that serves meals, pizza, sandw
 
 - Make This in Day 2023/4/25
 - You Can Template [See here](https://andro-emad.github.io/My-Restaurant/)
-  -(img/My-Restaurant.jpeg)
+  ![preview img](img/My-Restaurant.jpeg)
 
 # Pages scathing:
 
