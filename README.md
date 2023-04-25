@@ -1,5 +1,7 @@
 # My-Restaurant
 My restaurant page is for a fast food restaurant that serves meals, pizza, sandwiches and drinks. It consists of 4 home pages, new offers, a menu, and contact us.
+- Make This in Day 2023/4/25
+- You Can Template [See here](https://andro-emad.github.io/My-Restaurant/)
 # Pages scathing:
 - The Home page consists of header, footer, 4 sections, the first is the image of the most popular new offers, a button to go to the new offers page, the second section, the most food sales, the third section, working hours every day, and the fourth section, the branches. It is divided into two parts. The first is the address of each branch in the provinces, and the second is a map. Branches.
 - The new offers page consists of a header, footer, and one section, and there are cards for all the new offers, and it displays tags using JSON, and we will form each card with meal details and pictures for it.
