@@ -4,7 +4,6 @@ My restaurant page is for a fast food restaurant that serves meals, pizza, sandw
 
 - Make This in Day 2023/4/25
 - You Can Template [See here](https://andro-emad.github.io/My-Restaurant/)
-  ![preview img](img/My-Restaurant.jpeg)
 
 # Pages scathing:
 
@@ -20,3 +19,7 @@ My restaurant page is for a fast food restaurant that serves meals, pizza, sandw
 - javaScript
 - JSON
 - Some of Bootstrap
+
+#
+
+![preview img](img/My-Restaurant.jpeg)
