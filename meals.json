@@ -1,0 +1,115 @@
+[
+  {
+    "id":"1",
+    "type":"pizza",
+  "mealImg":"img/upload/pizza/Chicken_BBQ.jpg",
+  "mealName":"Chicken BBQ Pizza",
+  "mealDetails":"BBQ Sauce, Mozzarella, Grilled Chicken Breast & Onions",
+  "price":"8,75 €"
+    },
+  {
+    "id":"2",
+    "type":"pizza",
+  "mealImg":"img/upload/pizza/Chicken_Hot_Dynamite.jpg",
+  "mealName":"Chicken Hot Dynamite Pizza",
+  "mealDetails":"American Cheese, Green Peppers, Onions, Crunchy Chicken Breast, Mozzarella, Oregano with Dynamite & Hot Buffalo Sauces",
+  "price":"9,00 €"
+    },
+  {
+    "id":"3",
+    "type":"pizza",
+  "mealImg":"img/upload/pizza/Chicken_Tikka.jpg",
+  "mealName":"Chicken Tikka Pizza",
+  "mealDetails":"Pizza Sauce, Mozzarella, Chicken Tikka, Onions, Green Peppers with Mint Sauce",
+  "price":"10,50 €"
+    },
+    {
+      "id":"4",
+      "type":"pizza",
+    "mealImg":"img/upload/pizza/Chicken-Dynamite.jpg",
+    "mealName":"Chicken Dynamite Pizza",
+    "mealDetails":"American Cheese, Green Peppers, Onions, Crunchy Chicken Breast, Mozzarella, Oregano with Dynamite Sauce",
+    "price":"7,50 €"
+    }
+    ,
+    {
+      "id":"5",
+      "type":"pizza",
+    "mealImg":"img/upload/pizza/Hot & Spicy.jpg",
+    "mealName":"Hot & Spicy Pizza",
+    "mealDetails":"Pizza Sauce, Mozzarella, Onions, Green Peppers, Jalapeno & Beef",
+    "price":"6,95 €"
+    }
+    ,
+    {
+      "id":"6",
+      "type":"pizza",
+    "mealImg":"img/upload/pizza/Legend_Chicken_BBQ.jpg",
+    "mealName":"Legend Chicken BBQ Pizza",
+    "mealDetails":"American Cheese, Grilled Chicken Breast, Onions, Mozzarella, Oregano with BBQ Sauce",
+    "price":"7,90 €"
+    }
+    ,
+    {
+      "id":"7",
+      "type":"pizza",
+    "mealImg":"img/upload/pizza/Margherita.jpg",
+    "mealName":"Margherita Pizza",
+    "mealDetails":"Pizza Sauce & Mozzarella",
+    "price":"5,90 €"
+    }
+    ,
+    {
+      "id":"8",
+      "type":"pizza",
+    "mealImg":"img/upload/pizza/Legend_Chicken_Ranch.jpg",
+    "mealName":"Legend Chicken Ranch Pizza",
+    "mealDetails":"American Cheese, Grilled Chicken Breast, Onions, Mozzarella, Oregano with Ranch Sauce",
+    "price":"8,90 €"
+    }
+    ,
+    {
+      "id":"9",
+      "type":"pizza",
+    "mealImg":"img/upload/pizza/Philly_Cheese_Steak_Dynamite.jpg",
+    "mealName":"Philly Cheese Steak Dynamite Pizza",
+    "mealDetails":"American Cheese, Slices of Beef Steak, Green Peppers, Onions, Mushrooms, Mozzarella with Dynamite Sauce",
+    "price":"11,90 €"
+    }
+    ,
+    {
+      "id":"10",
+      "type":"pizza",
+    "mealImg":"img/upload/pizza/Veggie.jpg",
+    "mealName":"Veggie Pizza",
+    "mealDetails":"Pizza Sauce, Mozzarella, Onions, Green Peppers, Mushrooms & Black Olives",
+    "price":"8,20 €"
+    }
+    ,
+    {
+      "id":"11",
+      "type":"sandwiches",
+    "mealImg":"img/upload/sandwiches/sandwiches6.jpg",
+    "mealName":"Classic Burger",
+    "mealDetails":"Beef (approx. 250g), cheese, lettuce, onion, tomatoes, pickle. ",
+    "price":"5,20 €"
+    }
+    ,
+    {
+      "id":"12",
+      "type":"sandwiches",
+    "mealImg":"img/upload/sandwiches/slide1.avif",
+    "mealName":"Sennerin burger",
+    "mealDetails":"Beef (about 100g), salad, onion, tomatoes, pickle. With french fries 2.40€ ",
+    "price":"7,20 €"
+    }
+    ,
+    {
+      "id":"13",
+      "type":"sandwiches",
+    "mealImg":"img/upload/sandwiches/slide2.avif",
+    "mealName":"Farmers burger",
+    "mealDetails":"Beef (about 200g), spicy BBQ sauce, fried egg, salad, onion, tomatoes, pickle. With french fries 2.40€ ",
+    "price":"9,30 €"
+    }
+]
