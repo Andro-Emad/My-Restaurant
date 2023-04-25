@@ -1,5 +1,6 @@
 # My-Restaurant
 My Restaurant is a fully responsive restaurant website, responsive for all devices, and builds with HTML, CSS, Javascript, and JSON
+- 
 # My-Restaurant
 My restaurant page is for a fast food restaurant that serves meals, pizza, sandwiches and drinks. It consists of 4 home pages, new offers, a menu, and contact us.
 # Pages scathing:
@@ -8,8 +9,8 @@ My restaurant page is for a fast food restaurant that serves meals, pizza, sandw
 - The menu page consists of a header, footer, a section for meals, pizza, sandwiches, and drinks. It contains four buttons, and each category has a button. It displays cards using json. Each card is divided into two parts.
 - The Contact Ben page consists of header, footer, and two sections. The first section is complaints and suggestions. The second section is divided into two sections. The first section is the headquarters of the parent company, the address and social networking sites, and the second section is the map of the company’s headquarters.
 # User skills:
-HTML
-css
-javaScript
-JSON
-Some of Bootstrap
+- HTML
+- css
+- javaScript
+- JSON
+- Some of Bootstrap
